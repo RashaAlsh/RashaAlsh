@@ -1,14 +1,12 @@
-<h1 align="center">Hey 🤝 I’m RASHA </h1>
+<h1 align="center">Hey there 🤝 I’m Rasha </h1>
 
 <img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif"> 
 
 # 💫 About Me : 
 
-- 🚀 I’m currently a Student at [HackYourFuture](https://github.com/HackYourFuture)
-
 - 🌱I’m in a journey to be **a Full Stack Developer**
 
-- 📫 How to reach me **rashaalshraim1@gmail.com**
+- 📫 How to reach me **rashaalshraim1@gmail.com** 
 
 - ⚡ Fun fact **I play video games**
 
