@@ -1,14 +1,18 @@
-<h1 align="center">Hey there 🤝 I’m Rasha </h1>
 
+<h1 align="center">
+    Hi There 🤝  I'm Rasha! </h1>
+<h3 align="center" > 
 <img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif"> 
+</h3>
 
-# 💫 About Me : 
+# About Me : 
+  Passionate Software Developer living the Netherlands <br>
+- 🌱I’m in a journey of learning new technologies, and looking for an internship to test my skills in the real world.<br>
+- 🧑‍💻 Completed an intensive 7-month training program at Hack Your Future.<br>
+- 📫 How to reach me **rashaalshraim1@gmail.com** <br>
 
-- 🌱I’m in a journey to be **a Full Stack Developer** 
-- 🧑‍💻 Completed an intensive 9-month training program at Hack Your Future.
-- 📫 How to reach me **rashaalshraim1@gmail.com** 
-
-- ⚡ Fun fact **I play video games**
+- ⚡ Plan to learn: TypeScript , Tailwind CSS
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
