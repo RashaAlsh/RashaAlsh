@@ -6,9 +6,10 @@
 </h3>
 
 # About Me : 
-  Passionate Software Developer living the Netherlands <br>
-- 🌱I’m in a journey of learning new technologies, and looking for an internship to test my skills in the real world.<br>
+Passionate Software Developer living in the Netherlands <br>
+- 🌱 I’m on a journey of learning new technologies, and looking for an internship to test my skills in the real world.<br>
 - 🧑‍💻 Completed an intensive 7-month training program at Hack Your Future.<br>
+- 🔐 Currently in cybersecurity training at Capgemini.<br>
 - 📫 How to reach me **rashaalshraim1@gmail.com** <br>
 
 - ⚡ Plan to learn: TypeScript , Tailwind CSS
